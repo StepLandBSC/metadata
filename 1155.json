@@ -1,0 +1,39 @@
+{
+    "name": "Step Land #1155",
+    "discription": "Step Land #1155",
+    "images": "https://raw.githubusercontent.com/StepLandBSC/images/main/1155.png",
+    "attributes": [
+        {
+            "trait_type": "level",
+            "value": "3"
+        },
+        {
+            "trait_type": "durability",
+            "value": "125"
+        },
+        {
+            "trait_type": "detrition",
+            "value": "0"
+        },
+        {
+            "trait_type": "max-mint",
+            "value": "5"
+        },
+        {
+            "trait_type": "minted",
+            "value": "0"
+        },
+        {
+            "trait_type": "efficiency",
+            "value": "40"
+        },
+        {
+            "trait_type": "shoe-type",
+            "value": "walker"
+        },
+        {
+            "trait_type": "rarity",
+            "value": "R"
+        }
+    ]
+}
